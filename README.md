@@ -6,8 +6,6 @@ I've been writing code for 15+ years and fiddling with computers for even longer
 
 ## My Career
 
-A brief summary of my career:
-
 - I went to school for and secured my first job working in the games industry. I grew up enjoying video games and still do.
 - Pivoted into embedded development, writing control software for devices and subcontracting for the US Navy.
 - My next few positions generally revolved around web technologies, from Cold Fusion and ASP.Net to PHP and Javascript.
